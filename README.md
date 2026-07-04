@@ -1,2 +1,2 @@
 # Lua_FastFetch
-FastFetch  but lua
+Lua_FastFetch is essentially just a Fast fetch but for the roblox client, I wanted to see what it would tell you!
